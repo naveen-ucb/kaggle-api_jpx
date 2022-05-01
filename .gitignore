@@ -63,5 +63,6 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
-
+# Naveen
 *.csv
+jpx-tokyo-stock-exchange-prediction/
